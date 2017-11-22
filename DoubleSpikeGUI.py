@@ -3,6 +3,9 @@ This code is a remix of the original double spike code I wrote a few years ago.
 This one is far superior and likely easier to maintain than the mess that was that first 
 GUI. Note that you will require Python 3.x and numpy and scipy in order for this to run correctly.
 
+Please note that you can easily split this class into multiple classes/files. It's only in one 
+due to original user specifications.
+
 
 """
 
@@ -24,8 +27,6 @@ class RootWindow(Frame):
 	TODO: Describe what this does here
 	"""
 
-	# TODO:
-	# Reinitialize the concentration stuff when you open a new directory.
 	def __init__(self, parent):
 		Frame.__init__(self, parent)
 
