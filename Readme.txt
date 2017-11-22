@@ -17,3 +17,8 @@ you can just comment out the line :
 from DoubleSpikeDataBaseCommit import *
 
  in DoubleSpikeGUI.py. 
+
+ NOTE: You will need to supply and create your own constant files to get this rolling. I have 
+ included one for molybdenum for SRM 3134, but I would advice you to use your own values. If 
+ you require a different element you will need to use the software to create the
+ file yourself.
