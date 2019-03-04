@@ -2,7 +2,7 @@
 This solver implements the double spike equations from the
 double-spike toolbox. Other places too, but that's the most popular
 reference. Code by Alex Tennant.
-Questions to alexpattenant@gmail.com
+Questions to alexpattennant@gmail.com
 """
 import numpy as np
 from numpy import warnings
